@@ -12,4 +12,4 @@
 	url = https://github.com/FWGS/hlsdk-portable
 [submodule "jni/src/Xash3D/physic3d"]
 	path = jni/src/Xash3D/physic3d
-	url = https://github.com/Physic3D/physic3d.git
+	url = https://github.com/nicatmusy/physic3d
